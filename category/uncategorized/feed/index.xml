@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Sep 2024 06:50:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Sep 2024 09:59:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,66 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
+		<title>Hama Nyamuk</title>
+		<link>/hama-nyamuk/</link>
+					<comments>/hama-nyamuk/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 09:59:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=2324</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-2324 post type-post status-publish format-standard hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
+<h2 class="wp-block-post-title"><a href="/hama-nyamuk/" target="_self" >Hama Nyamuk</a></h2>
+
+
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt"> </p></div>
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+<div class="wp-block-post-date"><time datetime="2024-09-12T09:59:36+00:00">September 12, 2024</time></div>
+</li><li class="wp-block-post post-2235 post type-post status-publish format-standard hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
+<h2 class="wp-block-post-title"><a href="/hello-world-2/" target="_self" >Hello world!</a></h2>
+
+
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Welcome to Astra Starter Templates. This is your first post. Edit or delete it, then start blogging! </p></div>
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+<div class="wp-block-post-date"><time datetime="2024-09-11T06:50:43+00:00">September 11, 2024</time></div>
+</li><li class="wp-block-post post-1 post type-post status-publish format-standard hentry category-uncategorized ast-grid-common-col ast-full-width ast-article-post">
+<h2 class="wp-block-post-title"><a href="/hello-world/" target="_self" >Hello world!</a></h2>
+
+
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Welcome to WordPress. This is your first post. Edit or delete it, then start writing! </p></div>
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+<div class="wp-block-post-date"><time datetime="2017-03-09T03:18:12+00:00">March 9, 2017</time></div>
+</li></ul></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hama-nyamuk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/hello-world-2/</link>
 					<comments>/hello-world-2/#respond</comments>
